@@ -29,3 +29,12 @@ A modular, production-ready ETL (Extract, Transform, Load) engine engineered to 
         │
         ▼ (Secure Output Destination)
 [ Processed Datastore ]
+---
+
+### 🚀 Quick Start
+
+# Clone the repository
+git clone https://github.com/Zanster01/Enterprise-Data-Pipeline-Automation.git
+
+# Run the pipeline engine
+python3 main.py
